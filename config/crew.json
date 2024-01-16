@@ -1,0 +1,22 @@
+{
+  "agents": [
+    {
+      "role": "",
+      "goal": "",
+      "backstory": "",
+      "memory": true,
+      "verbose": true,
+      "allow_delegation": true
+    }
+  ],
+  "tasks": [
+    {
+      "description": "",
+      "agentRole": "",
+      "output": {
+        "description": "",
+        "result": ""
+      }
+    }
+  ]
+}
